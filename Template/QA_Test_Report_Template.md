@@ -1,6 +1,6 @@
 # 🧪 QA Report Template
 
-Modèle utilisé pour documenter les tests, les bugs et les analyses QA sur des jeux ou des mods.
+Modèle utilisé pour documenter les tests, bugs et analyses QA.
 
 ---
 
@@ -28,16 +28,15 @@ Modèle utilisé pour documenter les tests, les bugs et les analyses QA sur des 
 ## 🔧 Dev Log
 
 **Objectif global :**  
-Chose attendue  
 
 ### Étape X  
-**Objectif :**  
+Objectif :  
 
 ### Étape Y  
-**Objectif :**  
+Objectif :  
 
 ### Étape Z  
-**Objectif :**  
+Objectif :  
 
 ---
 
@@ -45,126 +44,36 @@ Chose attendue
 
 ---
 
-### 🔴 Bug – Nom du bug
+### 🔴 Bug – Nom
 
 **Origine :** Étape X  
 
 #### Conditions
--Être sur un objet  
+-  
 
 #### Étapes
-1. a  
-2. b  
-3. c  
+1.  
+2.  
+3.  
 
 #### Résultat actuel
--Description du problème  
+-  
 
 #### Résultat attendu
--Comportement attendu  
+-  
 
 #### Fréquence
-10/10  
+-  
 
 #### Reproductibilité
-Toujours → déclenchable à coup sûr  
-Parfois → fonctionne une fois sur X  
-Rare → difficile à reproduire  
+- Toujours  
+- Parfois  
+- Rare  
 
 #### Analyse
--Semble lié à…  
--Se produit uniquement si…  
--Probable conflit entre…  
--Le problème semble provenir de…  
+-  
+-  
+-  
 
 #### Statut
-(Choisir une seule valeur)  
-À corriger  
-En cours  
-Corrigé  
-Non prioritaire (faible impact)  
-Won’t Fix (décision volontaire)  
-
----
-
-### 🟠 Bug – Nom du bug
-
-**Origine :** Étape Y  
-
-#### Conditions
--Être sur un objet  
-
-#### Étapes
-1. a  
-2. b  
-3. c  
-
-#### Résultat actuel
--Description du problème  
-
-#### Résultat attendu
--Comportement attendu  
-
-#### Fréquence
-10/10  
-
-#### Reproductibilité
-Toujours → déclenchable à coup sûr  
-Parfois → fonctionne une fois sur X  
-Rare → difficile à reproduire  
-
-#### Analyse
--Semble lié à…  
--Se produit uniquement si…  
--Probable conflit entre…  
--Le problème semble provenir de…  
-
-#### Statut
-(Choisir une seule valeur)  
-À corriger  
-En cours  
-Corrigé  
-Non prioritaire (faible impact)  
-Won’t Fix (décision volontaire)  
-
----
-
-### 🟡 Bug – Nom du bug
-
-**Origine :** Étape Z  
-
-#### Conditions
--Être sur un objet  
-
-#### Étapes
-1. a  
-2. b  
-3. c  
-
-#### Résultat actuel
--Description du problème  
-
-#### Résultat attendu
--Comportement attendu  
-
-#### Fréquence
-10/10  
-
-#### Reproductibilité
-Toujours → déclenchable à coup sûr  
-Parfois → fonctionne une fois sur X  
-Rare → difficile à reproduire  
-
-#### Analyse
--Semble lié à…  
--Se produit uniquement si…  
--Probable conflit entre…  
--Le problème semble provenir de…  
-
-#### Statut
-(Choisir une seule valeur)  
-À corriger  
-En cours  
-Corrigé  
-Non prioritaire (faible impact)  
-Won’t Fix (décision volontaire)  
+À corriger / En cours / Corrigé / Non prioritaire / Won’t Fix  
