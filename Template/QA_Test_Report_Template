@@ -1,1 +1,169 @@
+# 🧪 QA Report Template
 
+Modèle utilisé pour documenter les tests, les bugs et les analyses QA sur des jeux ou des mods.
+
+---
+
+## 🎮 Informations
+
+**Jeux :** XXX  
+
+---
+
+## 📊 Résumé
+
+- 🔴 Critiques :  
+- 🟠 Majeurs :  
+- 🟡 Mineurs :  
+- 🟢 Visuels :  
+
+### 📌 Statut global
+- ✔ Corrigés :  
+- 🔧 En cours :  
+- ❗ Restants :  
+
+---
+
+## 🔧 Dev Log
+
+**Objectif global :**  
+Chose attendue  
+
+### Étape X
+**Objectif :**  
+
+### Étape Y
+**Objectif :**  
+
+### Étape Z
+**Objectif :**  
+
+---
+
+## 🐞 QA Bug Report
+
+---
+
+### 🔴 Bug – Nom du bug
+
+**Origine :** Étape X  
+
+#### Conditions
+- (Ex : être sur un objet)
+
+#### Étapes
+1. a  
+2. b  
+3. c  
+
+#### Résultat actuel
+-  
+
+#### Résultat attendu
+-  
+
+#### Fréquence
+-  
+
+#### Reproductibilité
+- Toujours → déclenchable à coup sûr  
+- Parfois → fonctionne une fois sur X  
+- Rare → difficile à reproduire  
+
+#### Analyse
+- Semble lié à…  
+- Se produit uniquement si…  
+- Probable conflit entre…  
+- Le problème semble provenir de…  
+
+#### Statut
+*(choisir une seule valeur)*
+- À corriger  
+- En cours  
+- Corrigé  
+- Non prioritaire (faible impact)  
+- Won’t Fix (décision volontaire)  
+
+---
+
+### 🟠 Bug – Nom du bug
+
+**Origine :** Étape Y  
+
+#### Conditions
+- (Ex : être sur un objet)
+
+#### Étapes
+1. a  
+2. b  
+3. c  
+
+#### Résultat actuel
+-  
+
+#### Résultat attendu
+-  
+
+#### Fréquence
+-  
+
+#### Reproductibilité
+- Toujours → déclenchable à coup sûr  
+- Parfois → fonctionne une fois sur X  
+- Rare → difficile à reproduire  
+
+#### Analyse
+- Semble lié à…  
+- Se produit uniquement si…  
+- Probable conflit entre…  
+- Le problème semble provenir de…  
+
+#### Statut
+*(choisir une seule valeur)*
+- À corriger  
+- En cours  
+- Corrigé  
+- Non prioritaire (faible impact)  
+- Won’t Fix (décision volontaire)  
+
+---
+
+### 🟡 Bug – Nom du bug
+
+**Origine :** Étape Z  
+
+#### Conditions
+- (Ex : être sur un objet)
+
+#### Étapes
+1. a  
+2. b  
+3. c  
+
+#### Résultat actuel
+-  
+
+#### Résultat attendu
+-  
+
+#### Fréquence
+-  
+
+#### Reproductibilité
+- Toujours → déclenchable à coup sûr  
+- Parfois → fonctionne une fois sur X  
+- Rare → difficile à reproduire  
+
+#### Analyse
+- Semble lié à…  
+- Se produit uniquement si…  
+- Probable conflit entre…  
+- Le problème semble provenir de…  
+
+#### Statut
+*(choisir une seule valeur)*
+- À corriger  
+- En cours  
+- Corrigé  
+- Non prioritaire (faible impact)  
+- Won’t Fix (décision volontaire)  
