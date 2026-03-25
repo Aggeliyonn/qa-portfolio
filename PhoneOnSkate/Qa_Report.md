@@ -54,7 +54,7 @@ Pouvoir sortir le téléphone en étant sur le skate roulant et refermer le tél
 - Apparition d’une zone noire à la place du texte  
 
 #### 📷 Capture du bug
-*(ajoute ton image ici plus tard)*
+![Bug caméra](bug-block-dismount.png)
 
 #### Résultat attendu
 - Rester sur le skate avec le téléphone ouvert  
