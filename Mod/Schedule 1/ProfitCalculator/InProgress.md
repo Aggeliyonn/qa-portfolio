@@ -208,6 +208,7 @@ Première appel des information des product via une interface
 - Première interface visible
 - Début du scan des produits
 - Premiers affichages d’informations
+![Première lecture depuis téléphone](Pictures/première_tentative_dappel.png)
 
 ### ⚠️ Partiel
 - Toggle F6
