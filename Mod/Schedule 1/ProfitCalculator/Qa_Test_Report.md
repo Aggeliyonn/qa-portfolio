@@ -27,7 +27,7 @@
 
 **Objectif global :**  
 
-Ouvrir un menu répertoriant tout les recette de la partie avec les cout, profit et ingrédients.
+Ouvrir un menu répertoriant toutes les recettes de la partie avec les coûts, profits et ingrédients.
 
 ### Étape Ouvrir un interface.
 Objectif :  
