@@ -1,42 +1,42 @@
 # 🧪 QA Report Template
 
-Modèle utilisé pour documenter les tests, bugs et analyses QA.
+Template used to document QA tests, bugs, and analyses.
 
 ---
 
-## 🎮 Informations
+## 🎮 Information
 
-**Jeux :** XXX  
+**Games:** XXX
 
 ---
 
-## 📊 Résumé
+## 📊 Summary
 
-🔴 Critiques :  
-🟠 Majeurs :  
-🟡 Mineurs :  
-🟢 Visuels :  
+🔴 Reviews:
+🟠 Major:
+🟡 Minor:
+🟢 Visuals:
 
-### 📌 Statut global
+### 📌 Overall Status
 
-✔ Corrigés :  
-🔧 En cours :  
-❗ Restants :  
+✔ Fixed:
+🔧 In Progress:
+❗ Remaining:
 
 ---
 
 ## 🔧 Dev Log
 
-**Objectif global :**  
+**Overall Goal:**
 
-### Étape X  
-Objectif :  
+### Stage X
+Goal:
 
-### Étape Y  
-Objectif :  
+### Stage Y
+Goal:
 
-### Étape Z  
-Objectif :  
+### Stage Z
+Goal:
 
 ---
 
@@ -44,36 +44,36 @@ Objectif :
 
 ---
 
-### 🔴 Bug – Nom
+### 🔴 Bug – Name
 
-**Origine :** Étape X  
+**Origin:** Stage X
 
 #### Conditions
--  
+-
 
-#### Étapes
-1.  
-2.  
-3.  
+#### Stages
+1.
+2.
+3.
 
-#### Résultat actuel
--  
+#### Current Result
+-
 
-#### Résultat attendu
--  
+#### Expected Result
+-
 
-#### Fréquence
--  
+#### Frequency
+-
 
-#### Reproductibilité
-- Toujours  
-- Parfois  
-- Rare  
+#### Reproducibility
+- Always
+- Sometimes
+- Rare
 
-#### Analyse
--  
--  
--  
+#### Analysis
+-
+-
+-
 
-#### Statut
-À corriger / En cours / Corrigé / Non prioritaire / Won’t Fix  
+#### Status
+To be corrected / In progress / Corrected / Not a priority / Won't Fix
